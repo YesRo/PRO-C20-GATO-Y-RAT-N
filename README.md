@@ -1,1 +1,2 @@
-# PRO-C20-GATO-Y-RAT-N
+# TomyJerry
+Proyecto20 PRO TomyJerry, sin errores para compartir con el alumno
